@@ -2,7 +2,7 @@
 CP1404/CP5632 Practical
 Guitars Test
 Estimate: 25 minutes
-Actual: 32 minutes
+Actual: 22 minutes
 """
 
 from prac_06.guitar import Guitar
