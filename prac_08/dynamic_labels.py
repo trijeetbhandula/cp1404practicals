@@ -1,7 +1,6 @@
 """
-CP1404 Practical 8 - Dynamic Labels
-Estimated Time: 70 minutes
-Actual Time: 83 minutes
+CP1404 Practical 8
+Dynamic Labels
 """
 
 from kivy.app import App
